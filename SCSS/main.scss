@@ -1,0 +1,24 @@
+@import "./blocks/_header.scss";
+@import "./blocks/_footer.scss";
+$primary-color:hwb(281 18% 0%);
+$secondary-color:#FFDAB9;
+$base-font-size:16px;
+h1{
+    color:$primary-color;
+}
+.button {
+    background-color:$secondary-color ;
+}
+p{
+    font-size:$base-font-size*1.25;
+}
+nav{
+    ul{
+        list-style:none;
+        a{
+            display: block;
+            padding: 6px 18px;
+            text-decoration:none;
+        }
+    }
+}

@@ -1,0 +1,29 @@
+header {
+  border-bottom: 1px solid lightgrey;
+  padding: 0 20px;
+}
+
+footer {
+  font-weight: bold;
+}
+
+h1 {
+  color: #ADFF2F;
+}
+
+.button {
+  background-color: #FFDAB9;
+}
+
+p {
+  font-size: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+nav ul a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}/*# sourceMappingURL=main.css.map */
